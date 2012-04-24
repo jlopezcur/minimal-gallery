@@ -9,8 +9,8 @@ You can see a demo on http://www.pablovara.com/
 
 ### Screenshots ###
 
-<img src="https://github.com/noknokstdio/minimalist-gallery/raw/master/screenshot-1.png" />
-<img src="https://github.com/noknokstdio/minimalist-gallery/raw/master/screenshot-2.png" />
+<img src="https://github.com/noknokstdio/minimal-gallery/raw/master/screenshot-1.png" />
+<img src="https://github.com/noknokstdio/minimal-gallery/raw/master/screenshot-2.png" />
 
 ### Install ###
 
