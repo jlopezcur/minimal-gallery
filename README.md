@@ -1,4 +1,4 @@
-minimalist-gallery
+minimal-gallery
 ==================
 
 #### Remplace default gallery ####
@@ -14,7 +14,7 @@ You can see a demo on http://www.pablovara.com/
 
 ### Install ###
 
-1. Install Minimalist Gallery either via the WordPress.org plugin directory, or by uploading the files to your server.
+1. Install Minimal Gallery either via the WordPress.org plugin directory, or by uploading the files to your server.
 2. Activate the plugin through the 'Plugins' menu in Wordpress
 
 ### ChangeLog ###
